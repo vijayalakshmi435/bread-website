@@ -1,0 +1,248 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.main{
+    width: 100%;
+    height: 100vh;
+}
+.home{
+    width: 100%;
+    height: 70%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.hom-cont1{
+    width: 30%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.cont1-head{
+    width: 100%;
+    height: 30%;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    margin-right: 80px;
+}
+.spn1{
+    width: 80px;
+    height: 80px;
+    background-color:rgb(54, 13, 205);
+    border-radius: 40px;
+}
+.spn1 i{
+    width: 80px;
+    height: 80px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 50px;
+    color: white;
+}
+.cont1-head{
+    font-size: 30px;
+}
+.cont1-abt{
+    width: 100%;
+    height: 70%;
+    display: flex;
+    flex-direction: column ;
+    justify-content: center;
+    font-size: 50px;
+    margin-left: 160px;
+    margin-top: 190px;
+}
+.cont1-abt span{
+    font-weight: bold;
+}
+.cont1-abt p{
+    width: 350px;
+    height: 50px;
+    font-size: 15px;
+    margin-top: 10px;
+}
+.hom-card{
+    width: 30%;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.hom-card img{
+    width: 100%;
+    height: 100%;
+}
+.hom-cont2{
+    width: 40%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+}
+.cont2-head{
+    width: 100%;
+    height: 20%;
+    display: flex;
+    align-items: center;
+    justify-content:end;
+    font-size: 40px;
+}
+.cont2-head i{
+    margin-right: 70px;
+}
+.cont2-abt{
+    width: 100%;
+    height: 80%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.spn4{
+    width: 370px;
+    height: 150px;
+}
+.spn-cont{
+    width: 300px;
+    height: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 30px;
+    padding-left: 60px;
+}
+.icons{
+    width:200px;
+    height: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    font-size: 22px;
+    color: rgb(14, 178, 178);
+    padding-left: 30px;
+}
+.spn5{
+    width: 300px;
+    height: 150px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+
+}
+.spn5 span{
+    width: 130px;
+    height: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-right: 30px;
+}
+.con{
+    color: blue;
+}
+button{
+    width: 200px;
+    height: 40px;
+    font-size: 15px;
+    background-color: rgb(4, 4, 171);
+    color: white;
+    border: none;
+    border-radius: 5px;
+    margin-top: 3px;
+    margin-left: 30px;
+}
+.ftr{
+    width: 100%;
+    height: 30%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.emty{
+    width: 20%;
+    height: 100%;
+}
+.ftr-cards{
+    width: 80%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.ftr-cards span{
+    width: 100%;
+    height: 15%;
+    color: green;
+    display: flex;
+    font-size: 20px;
+    align-items: center;
+    justify-content: center;
+    font-weight: bold;
+}
+.cards{
+    width: 100%;
+    height: 85%;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;  
+
+}
+.c1{
+    width: 150px;
+    height: 150px;
+    border-radius: 5px;
+    border: 1px solid black;
+}
+.c1 img{
+    width: 150px;
+    height: 150px;
+    border-radius: 5px;
+}
+.c2{
+    width: 150px;
+    height: 150px;
+    border-radius: 5px;
+    border: 1px solid black;
+}
+.c2 img{
+    width: 150px;
+    height: 150px;
+    border-radius: 5px;
+}
+.c3{
+    width: 150px;
+    height: 150px;
+    border-radius: 5px;
+    border: 1px solid black;
+}
+.c3 img{
+    width: 150px;
+    height: 150px;
+    border-radius: 5px;
+}
+.c4{
+    width: 150px;
+    height: 150px;
+    border-radius: 5px;
+    border: 1px solid black;
+}
+.c4 img{
+    width: 150px;
+    height: 150px;
+    border-radius: 5px;
+}
+.c5{
+    width: 150px;
+    height: 150px;
+    border: 1px solid black;
+    border-radius: 5px;
+}
+.c5 img{
+    width: 150px;
+    height: 150px;
+    border-radius: 5px;
+}
